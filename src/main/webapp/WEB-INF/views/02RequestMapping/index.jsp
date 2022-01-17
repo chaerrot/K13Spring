@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 <script src="/springlegacy/resources/jquery/jquery-3.6.0.js"></script>
-<link rel="stylesheet"  href="/springlegacy/static/bootstrap5.1.3/css/bootstrap.css" />
+<link rel="stylesheet" href="/springlegacy/static/bootstrap5.1.3/css/bootstrap.css" />
 </head>
 <body>
 <div class="container">
