@@ -84,4 +84,5 @@ public class RequestMappingController {
 		return "02RequestMapping/modelAttribute";
 	}
 			
+	
 }
